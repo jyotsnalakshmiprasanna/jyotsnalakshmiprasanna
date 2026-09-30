@@ -19,6 +19,11 @@ Data Analyst with 4.8+ years of experience in reporting, automation, and busines
 - Python
 - Generative AI
 - Reporting & Data Analysis
+
+## Certifications
+- Data Analysis + Generative AI — Skillovilla
+- Data Visualization in Power BI — Skillovilla
+- Harness Engineering with Claude and Claude Code — Udacity
  
 ## Currently Learning
 - AI Engineering
