@@ -1,16 +1,38 @@
-## Hi there 👋
-
-<!--
-**jyotsnalakshmiprasanna/jyotsnalakshmiprasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Jyotsna 👋
+ 
+## About Me
+Data Analyst with 4.8+ years of experience in reporting, automation, and business intelligence.
+ 
+## Interests
+- Data Analytics
+- Business Intelligence
+- Generative AI
+- AI Agents & Automation
+- Power BI Dashboards
+- Python Projects
+ 
+## Skills
+- SQL
+- Advanced Excel
+- VBA & Macros
+- Power BI
+- Python
+- Generative AI
+- Reporting & Data Analysis
+ 
+## Currently Learning
+- AI Engineering
+- Agentic Workflows
+- Claude & LLM Applications
+- Advanced Python
+ 
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/namana-jyotsna-lakshmi-prasanna-a76ba41a9
+- Email: jyotsnanamana2000@gmail.com
+ 
+## Featured Projects
+- Harness Engineering with Claude and Claude Code
+- Multi-Agent Code Review System
+- Power BI Analytics Dashboards
+- SQL Automation & Reporting Solutions
+- 
